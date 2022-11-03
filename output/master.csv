@@ -1,0 +1,131 @@
+PID,Workplace,Address,SIC1,SIC2,Journeys,Distance,CO2saved,Caloriesburned,Moneysaved,ParticipationDenominator,ParticipationNumerator,ParticipationPercentage
+1,Baillie Gifford,"Calton Square, Greenside Row, Edinburgh, Scotland, EH1 3AN",Activities of investment trusts,NA,819,6425,911,144489,474.56,1400,70,5
+2,Edinburgh Leisure,"Meadowbank Sports Centre, 139 London Road, Edinburgh, Scotland, EH7 6AE",Operation of sports facilities,Fitness facilities,567,2464,325,150801,579.39,1000,21,2
+3,Orkney Islands Council,"School Place, Kirkwall, Orkney, United Kingdom, KW15 1NY",Limited liability partnership,,433,1027,27,82502,46.71,2000,16,0.8
+4,Edinburgh Napier University,"Merchiston Tower, Colinton Road, Edinburgh, EH10 5DT",First-degree level higher education,Post-graduate level higher education,147,2644,215,28339,222.73,1856,14,0.8
+5,Royal Infirmary of Edinburgh,,,,223,913,66,52967,118.41,1125,8,0.7
+6,SCOTTISH GOVERNMENT,,,,748,4702,388,226757,653.93,6000,37,0.6
+7,University of St Andrews,,,,281,1337,116,35558,181.56,2830,16,0.6
+8,Moray Council,,,,338,1912,284,45110,348.21,4790,18,0.4
+9,East Lothian Council,,,,257,1562,150,62260,254.45,4500,15,0.3
+10,Scottish Environment Protection Agency,,,,149,718,37,22863,60.75,1200,4,0.3
+11,Skills Development Scotland,,,,69,659,36,24286,58.2,1600,4,0.3
+12,NHS Grampian,,,,1090,5737,333,237999,534.61,16000,33,0.2
+13,NHS GGC QEUH,,,,47,641,88,32853,208.7,1000,2,0.2
+14,Historic Environment Scotland,,,,35,179,2,12483,5.3,1000,2,0.2
+15,Foreign Commonwealth and Development Office,,,,17,132,11,7099,19.68,1000,2,0.2
+16,Heriot-Watt University,,,,64,341,0,22537,0,1700,3,0.2
+17,Shetland Island Council,,,,102,126,13,10585,5.19,4000,6,0.2
+18,NHS Highland,,,,405,1603,172,109887,294.23,11000,16,0.1
+19,University of Strathclyde,,,,90,211,8,12360,16.14,3500,5,0.1
+20,East Ayrshire Council,,,,170,912,36,54517,60.17,5000,7,0.1
+21,University of Edinburgh,,,,392,2307,87,106171,177.44,15512,21,0.1
+22,North Ayrshire Council,,,,218,1538,62,103584,96.31,6500,8,0.1
+23,The City of Edinburgh Council,,,,638,3046,280,129862,181.7,15000,18,0.1
+24,NHS Greater Glasgow and Clyde Glasgow Royal Infirmary,,,,65,589,15,23021,34.51,2000,2,0.1
+25,PwC UK,,,,41,148,0,5457,0,1000,1,0.1
+26,RBS Gogarburn,,,,22,60,3,4612,4.8,3000,3,0.1
+27,Aberdeenshire Council,,,,270,730,29,49333,29.66,15000,11,0.07
+28,"NHS Greater Glasgow & Clyde, Royal Alexandra Hospital",,,,206,1985,211,77519,-550.41,10000,7,0.07
+29,Dumfries and Galloway Council,,,,44,251,1,23171,2.16,6500,4,0.06
+30,Glasgow City Council,,,,333,1766,70,86465,117.82,19000,10,0.05
+31,Aberdeen City Council,,,,125,758,165,37710,270.9,10000,5,0.05
+32,Leonardo,,,,16,94,0,5212,0,2000,1,0.05
+33,Mid HSC,,,,32,135,29,8231,50.16,5000,2,0.04
+34,Forth Valley College,,,,73,391,39,18912,55.42,15000,5,0.03
+35,Next,,,,11,49,0,4563,0,4500,1,0.02
+36,Glasgow Caledonian University,,,,2,2,0,107,0,5000,1,0.02
+37,NHS Ayrshire and Arran,,,,42,211,0,11533,0,11000,2,0.02
+38,Dundee City Council,,,,93,333,0,15047,0.58,6935,1,0.01
+39,Smith Scott Mullan Associates,,,,459,2276,98,82646,176.67,32,18,56
+40,Max Fordham LLP (Edinburgh),,,,225,2281,46,47362,110.83,41,15,37
+41,Wardell Armstrong LLP Scotland,,,,218,886,25,30934,72.1,35,7,20
+42,City of Edinburgh Council,,,,79,331,7,10409,-15.67,25,5,20
+43,Camera Obscura and World of Illusions,,,,436,3632,46,64655,75.15,60,10,17
+44,Cycling Scotland,,,,149,1317,87,35989,105.88,37,6,16
+45,Peel Tower/Glentress,,,,23,95,20,4918,37.28,20,3,15
+46,Highlands and Islands Students' Association,,,,51,528,74,14401,90,43,5,12
+47,"St George's School, Edinburgh",,,,74,448,39,25294,81.31,60,6,10
+48,GPS,,,,28,42,2,4201,3.08,30,3,10
+49,Weatherford BoD,,,,139,1001,44,56117,74.45,40,3,8
+50,AMS Global Group,,,,73,615,11,13715,-64.07,43,3,7
+51,Institute of Occupational Medicine,,,,77,328,21,18850,43.71,80,5,6
+52,Corra Foundation,,,,87,638,14,27223,26.2,56,3,5
+53,Scottish Legal Complaints Commission,,,,31,119,1,4379,2.42,56,3,5
+54,Warranty Services Limited,,,,193,1503,124,70714,209.01,65,3,5
+55,Competition and Markets Authority,,,,76,128,1,11809,2.34,50,2,4
+56,Fairhurst Glasgow,,,,70,491,78,8852,91.25,50,2,4
+57,Orkney Islands Council Marine Services,,,,8,26,7,872,12.58,30,1,3
+58,LDN Architects,,,,8,10,0,945,0,36,1,3
+59,DSSR Ltd (Glasgow),,,,10,115,17,193,19.96,37,1,3
+60,Coatbridge royal mail,,,,29,95,27,5102,45.6,40,1,3
+61,EthosEnergy,,,,5,6,1,540,1.08,50,1,2
+62,Woodward Inc,,,,9,22,0,2022,0,57,1,2
+63,Sustrans Scotland,,,,1775,15883,880,463266,788.77,300,59,20
+64,Jacobs,,,,406,1665,58,102153,126.57,400,22,6
+65,Dollar Academy,,,,269,1090,76,48356,120.61,260,11,4
+66,Shin-Etsu Handotai Europe Ltd,,,,394,1999,182,109117,306.56,450,14,3
+67,University of Edinburgh - LLC,,,,159,497,12,23103,26.89,300,7,2
+68,Scottish Parliament,,,,198,1169,78,50669,113.71,450,8,2
+69,Booth Welsh,,,,59,413,73,15168,125.77,340,4,1
+70,Thistle Foundation,,,,35,252,10,15411,27.3,450,2,0.4
+71,Howden,,,,4,26,7,1396,12.48,400,1,0.3
+72,Strathclyde Partnership for Transport,,,,51,643,14,12795,16.08,485,1,0.2
+73,Absolute Escapes Ltd.,,,,933,5843,338,187055,432.02,18,18,100
+74,Keppoch Medical Practice,,,,574,3347,148,111210,229.03,19,19,100
+75,"The Bike Station, Perth",,,,206,2419,92,115814,157.56,8,8,100
+76,EAUC Scotland,,,,70,1504,190,6698,7.33,6,6,100
+77,Stirling Council- Risk & Resilience,,,,423,1097,54,73748,83.54,12,10,83
+78,MacKenzie Centre,,,,313,1581,15,133679,26.73,14,10,71
+79,Nestrans,,,,189,1144,33,56526,27.87,8,5,63
+80,Soil Association Scotland,,,,311,3851,263,79733,58.47,15,9,60
+81,Unst Leisure Centre,,,,190,551,48,39132,84.59,8,4,50
+82,Helen Lucas Architects Ltd,,,,174,1383,92,45693,138.36,14,7,50
+83,"Tuffin Ferraby Taylor (TFT), Edinburgh",,,,80,2339,691,15073,137.51,10,5,50
+84,Forth Environment Link,,,,101,457,78,13507,103.73,19,9,47
+85,Scottish Student Sport,,,,75,471,0,44972,0.92,10,4,40
+86,Dangerous Studio,,,,49,427,111,23934,190.56,5,2,40
+87,Anturas Consulting,,,,135,1081,16,18286,29.01,18,7,39
+88,Streetwise Services Ltd,,,,12,29,0,2212,0.15,12,3,25
+89,CVS Falkirk,,,,4,3,0,280,0.31,8,2,25
+90,University of St Andrews Libraries and Museums Cataloguing,,,,90,328,43,16997,80.04,11,2,18
+91,HITRANS,,,,64,1441,69,24019,104.16,11,2,18
+92,Troqueer Nursery,,,,6,38,0,3466,0,12,2,17
+93,Highland Theological College UHI,,,,96,628,16,40490,27.57,19,3,16
+94,The Welcoming,,,,38,27,0,2511,0,13,2,15
+95,BIM Tech,,,,28,171,39,11466,67.2,8,1,13
+96,Stirling Council,,,,41,51,0,4732,0,9,1,11
+97,Bar Vini,,,,4,10,0,638,0,10,1,10
+98,Statkraft UK,,,,6,29,0,532,0,11,1,9
+99,Orkney & Shetland VJB,,,,10,60,0,5540,0,14,1,7
+100,Ipsos Scotland,,,,15,45,6,2417,10.8,15,1,7
+101,VisitScotland,,,,1534,11340,NA,314105,568.11,600,57,10
+102,South Ayrshire Council,,,,350,1320,138,70400,179.12,500,14,3
+103,"Western General Hospital, Edinburgh",,,,238,2239,165,65663,280.52,500,10,2
+104,NatureScot,,,,172,762,22,51694,30.22,700,10,1
+105,NHS Shetland,,,,185,773,53,48060,62.55,830,9,1
+106,J.P.Morgan & Chase,,,,115,151,2,6738,4,500,5,1
+107,North East Scotland College,,,,174,658,-7,22487,-20.05,600,5,0.8
+108,National Library of Scotland,,,,166,1536,-8,14377,-15.6,500,4,0.8
+109,Queen Margaret University-Staff,,,,49,229,8,13302,23,500,3,0.6
+110,Clackmannanshire Community Health Centre,,,,63,582,70,13912,119.69,500,1,0.2
+111,University of Edinburgh - ACE,,,,8,73,3,4036,4.8,700,1,0.1
+112,south lanarkshire council,,,,30,49,0,4548,0,800,1,0.1
+113,Beatson West of Scotland Cancer Centre,,,,25,130,16,2013,14.3,950,1,0.1
+114,George Heriot's School,,,,1070,8555,914,243082,NA,200,51,26
+115,Genesis,,,,518,2908,214,119946,360.8,178,27,15
+116,University of Edinburgh - EPCC,,,,432,1646,38,111005,93.86,120,16,13
+117,Changeworks,,,,406,1942,247,66063,325.37,170,22,13
+118,Bethany Christian Trust,,,,341,1866,137,90156,340.53,220,16,7
+119,Edinburgh Instruments,,,,167,1657,123,44415,244.73,150,5,3
+120,Highland Hospice,,,,132,784,25,27552,42.05,200,6,3
+121,University of Aberdeen,,,,286,539,6,29428,11.33,200,5,3
+122,NHSG Test & Protect,,,,28,88,2,7768,4.22,200,5,3
+123,L'Arche Highland,,,,78,143,0,7237,0,110,2,2
+124,AutoRek,,,,38,95,8,6878,21.75,115,2,2
+125,Zero Waste Scotland,,,,63,419,15,23440,32.6,185,3,2
+126,Spire Global,,,,43,245,3,14926,6.19,100,1,1
+127,SNBTS,,,,32,824,0,3976,0,100,1,1
+128,Royal Scottish National Orchestra,,,,27,995,0,7665,1.68,100,1,1
+129,University of Edinburgh - Centre for Open Learning,,,,42,170,25,14873,71.76,120,1,0.8
+130,GSK Irvine,,,,23,299,81,16068,138,220,1,0.5

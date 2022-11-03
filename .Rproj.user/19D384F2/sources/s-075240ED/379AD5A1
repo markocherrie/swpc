@@ -1,0 +1,25 @@
+{
+    "id": "379AD5A1",
+    "path": "~/GitHub/workplacechallengedata/process.R",
+    "project_path": "process.R",
+    "type": "r_source",
+    "hash": "3495856906",
+    "contents": "",
+    "dirty": false,
+    "created": 1667477712471.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "47,0",
+        "scrollLine": "36"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1667507754,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1667507754183,
+    "read_only": false,
+    "read_only_alternatives": []
+}
